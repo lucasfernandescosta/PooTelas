@@ -103,7 +103,7 @@ public class SegundaTela extends JFrame{
 		panelPaineis.add(panelLeste);
 		panelPaineis.add(panelOeste);
 		
-		// Painel de checks
+		
 		
 		JPanel panelCheckBox = new JPanel();
 		panelCheckBox.setLayout(null);
